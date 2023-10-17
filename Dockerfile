@@ -26,6 +26,6 @@ EXPOSE 500 400
 CMD ["bash"]
 
 # Build the image
-# docker build -t custom-kali-image-21535220 .
+# docker build -t custom-kali-image-22041278 .
 # Run the container
-# docker run -it --rm --name custom-kali-container-21535220 custom-kali-image-21535220
+# docker run -it --rm --name custom-kali-container-22041278 custom-kali-image-22041278
